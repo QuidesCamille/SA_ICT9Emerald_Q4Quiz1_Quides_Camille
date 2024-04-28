@@ -1,0 +1,40 @@
+h1 { font-family: cursive;
+	color: sandybrown;
+	text-align: center;
+text-decoration: underline;
+	}
+
+body
+
+{background-color: lightyellow;}
+
+table
+{ border-color:saddlebrown;
+
+
+}
+
+th { color:burlywood; 
+	font-weight: bolder;
+	text-decoration: underline;
+	font-size: xx-large;
+
+}
+
+
+
+td {
+	font-weight: bold;
+font-size: x-large;
+color: dimgrey;
+text-align: right;
+}
+
+p {
+	color: sandybrown;
+}
+
+img {
+
+	align-content: center;
+}
